@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  text-align: center;
+  background-color: #d1dbed;color: white;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
